@@ -10,13 +10,19 @@
       "id": 2,
       "text": "Zuipen op terrasjes",
       "day": "May 8st at 10:00am",
-      "reminder": "True"
+      "reminder": false
     },
     {
       "id": 3,
       "text": "La Boum",
       "day": "April 1st at 04:00pm",
-      "reminder": "False"
+      "reminder": false
+    },
+    {
+      "text": "Hard drugs doen",
+      "day": "Maakt ni uit wanneer",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
