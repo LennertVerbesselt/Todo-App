@@ -1,12 +1,6 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Boiten aa",
-      "day": "May 1st at 2:30pm",
-      "reminder": "True"
-    },
-    {
       "id": 2,
       "text": "Zuipen op terrasjes",
       "day": "May 8st at 10:00am",
@@ -20,9 +14,15 @@
     },
     {
       "text": "Hard drugs doen",
-      "day": "Maakt ni uit wanneer",
-      "reminder": true,
+      "day": "Nooit",
+      "reminder": false,
       "id": 4
+    },
+    {
+      "text": "Zuipen op terrasjes @ Luik",
+      "day": "May 1st at 10:00am",
+      "reminder": false,
+      "id": 5
     }
   ]
 }
