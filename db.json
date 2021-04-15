@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Boiten aa",
+      "day": "May 1st at 2:30pm",
+      "reminder": "True"
+    },
+    {
+      "id": 2,
+      "text": "Zuipen op terrasjes",
+      "day": "May 8st at 10:00am",
+      "reminder": "True"
+    },
+    {
+      "id": 3,
+      "text": "La Boum",
+      "day": "April 1st at 04:00pm",
+      "reminder": "False"
+    }
+  ]
+}
